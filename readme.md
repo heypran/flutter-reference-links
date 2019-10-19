@@ -145,3 +145,7 @@ https://www.gotut.net/flutter-firestore-tutorial-part-1/
 - Linear Progress bar
 
 https://pub.dev/packages/percent_indicator
+
+- Writing tests in flutter
+https://flutter.dev/docs/cookbook/testing/unit/introduction
+
