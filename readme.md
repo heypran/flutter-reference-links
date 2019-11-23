@@ -1,5 +1,8 @@
 # Reference links for flutter widgets and other documentation
 
+- Widget state context
+https://www.didierboelens.com/2018/06/widget---state---context---inheritedwidget/
+
 - Navigation Tabs
 https://willowtreeapps.com/ideas/how-to-use-flutter-to-build-an-app-with-bottom-navigation
 https://medium.com/@uncoded_decimal/creating-bottom-navigation-tabs-using-flutter-2286681450d4
@@ -148,4 +151,9 @@ https://pub.dev/packages/percent_indicator
 
 - Writing tests in flutter
 https://flutter.dev/docs/cookbook/testing/unit/introduction
+
+- Flutter archtitectures
+https://fluttersamples.com/
+https://github.com/brianegan/flutter_architecture_samples
+
 
